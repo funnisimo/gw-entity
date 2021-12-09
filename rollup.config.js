@@ -16,7 +16,7 @@ export default [
             {
                 file: 'dist/gw-entity.min.js',
                 format: 'umd',
-                name: 'GWI',
+                name: 'GWE',
                 // freeze: false,
                 // extend: true,
                 sourcemap: true,
@@ -29,7 +29,7 @@ export default [
             {
                 file: 'dist/gw-entity.js',
                 format: 'umd',
-                name: 'GWI',
+                name: 'GWE',
                 // freeze: false,
                 // extend: true,
                 sourcemap: true,
